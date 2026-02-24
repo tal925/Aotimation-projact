@@ -1,0 +1,6 @@
+pageObject\SearchResultsPage.class
+pageObject\Main.class
+pageObject\BtlBasePage.class
+pageObject\BasePage.class
+pageObject\HomePage.class
+pageObject\InsuranceCalculatorPage.class
