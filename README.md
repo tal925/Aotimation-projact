@@ -56,6 +56,8 @@ To clean previous build output first:
 mvn clean test
 ```
 
+Or run the tests from an IDE (IntelliJ IDEA or Eclipse): open the project as a Maven project, then run a test class as a JUnit test.
+
 ### Reports
 
 After a run, the ExtentReports HTML report is created at `target/reports/extent-report.html`. A screenshot is taken after every test, saved in `target/screenshots` and attached to the report.
